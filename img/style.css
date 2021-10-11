@@ -1,0 +1,41 @@
+/* font-family: 'Open Sans', sans-serif; */
+/* font-family: 'PT Serif', serif; */
+
+.color-palette {
+  background-color: white;
+  border-color: black;
+  border: 2px;
+  padding: 10px;
+
+}
+
+div {
+  height: 150px;
+  width: 150px;
+  display: inline;
+}
+
+div #color-1 {
+  background-color: #031A6B;
+}
+
+div #color-2 {
+  background-color: #033860;
+}
+
+div #color-3 {
+  background-color: #087CA7;
+}
+
+div #color-4 {
+  background-color: #004385;
+}
+
+div #color-5 {
+  background-color: #05B2DC;
+}
+
+img {
+  width: 300px;
+  margin: 15px;
+}
