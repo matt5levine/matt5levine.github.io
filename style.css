@@ -1,0 +1,18 @@
+.header {
+  padding: 2px;
+  height: 200px;
+  text-align: left;
+  background: #0096c7;
+  color: white;
+  font-size: 15px;
+}
+
+.name {
+  text-align: center;
+  font-size: 30px;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+}
